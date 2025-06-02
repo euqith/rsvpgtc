@@ -2,7 +2,7 @@
 <html lang="en" class="h-100 w-100">
 
 <head>
-    <title>RSVP GTC Easter</title>
+    <title>RSVP GTC</title>
 
     {{-- <link rel="preload" href="img/GTClogo.png">
     <link rel="preload" href="js/script.min.js" as="script"> --}}
